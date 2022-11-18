@@ -1,0 +1,5 @@
+/Users/joshbadman/Source/dotnet/HelloWorld/bin/Release/net7.0/publish/HelloWorld
+/Users/joshbadman/Source/dotnet/HelloWorld/bin/Release/net7.0/publish/HelloWorld.dll
+/Users/joshbadman/Source/dotnet/HelloWorld/bin/Release/net7.0/publish/HelloWorld.deps.json
+/Users/joshbadman/Source/dotnet/HelloWorld/bin/Release/net7.0/publish/HelloWorld.runtimeconfig.json
+/Users/joshbadman/Source/dotnet/HelloWorld/bin/Release/net7.0/publish/HelloWorld.pdb
